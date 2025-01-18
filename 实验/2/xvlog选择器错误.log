@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado_file/927selector/927selector.srcs/sources_1/new/selector41.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module selector41
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/vivado_file/927selector/927selector.srcs/sim_1/new/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_selector41
+ERROR: [VRFC 10-1412] syntax error near + [E:/vivado_file/927selector/927selector.srcs/sim_1/new/tb.v:38]
+ERROR: [VRFC 10-1040] module test_selector41 ignored due to previous errors [E:/vivado_file/927selector/927selector.srcs/sim_1/new/tb.v:3]
